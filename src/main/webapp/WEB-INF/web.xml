@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app>
+	<servlet>
+		<servlet-name>MyntraAction</servlet-name>
+		<servlet-class>MyntraAction</servlet-class>
+	</servlet>
+	
+	<servlet-mapping>
+		<servlet-name>MyntraAction</servlet-name>
+		<url-pattern>/MyntraAction</url-pattern>
+	</servlet-mapping>
+</web-app>
